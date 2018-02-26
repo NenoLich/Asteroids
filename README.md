@@ -1,6 +1,6 @@
 # Homework
 
-![Preview](https://github.com/NenoLich/Homework/blob/master/PreviewGamePlay.jpg)
+![Preview](https://github.com/NenoLich/Asteroids/blob/master/Preview.jpg)
 
 Домашние задания для [Geekbrains.ru](https://geekbrains.ru) c# Уровень 2.
 
